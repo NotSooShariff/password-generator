@@ -1,0 +1,2 @@
+gt:
+	@call git.bat
